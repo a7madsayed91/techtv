@@ -1,0 +1,526 @@
+a {
+  color: #06396a;
+}
+a:hover {
+  color: #031f3a;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #ed1c24;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item:hover > a,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active > a {
+  color: #ed1c24;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active >a:hover {
+  color: #06396a;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active >a:hover:before {
+  background-color: #06396a;
+}
+#offcanvas-toggler >i {
+  color: #666666;
+}
+#offcanvas-toggler >i:hover {
+  color: #06396a;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #04294d;
+  background-color: #06396a;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #021222;
+  background-color: #031f3a;
+}
+ul.social-icons >li a:hover {
+  color: #06396a;
+}
+.sp-page-title {
+  background: #06396a;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a:hover {
+  color: #06396a;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #06396a;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #06396a;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #06396a;
+}
+.search .btn-toolbar button {
+  background: #06396a;
+}
+.post-format {
+  background: #ed1c24;
+}
+.voting-symbol span.star.active:before {
+  color: #06396a;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #031f3a;
+}
+.entry-link,
+.entry-quote {
+  background: #06396a;
+}
+blockquote {
+  border-color: #06396a;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #06396a;
+}
+#sp-footer {
+  background: #06396a;
+}
+.sp-comingsoon body {
+  background-color: #06396a;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #666666;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #ed1c24;
+  background-color: transparent;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: transparent;
+  background-color: transparent;
+  color: #ed1c24;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: transparent;
+  background-color: transparent;
+}
+.pagination-wraper ul.pagination li > a:hover {
+  color: #ed1c24;
+}
+.politist-breadcrumb:after {
+  background-color: rgba(6,57,106,0.8);
+}
+.sp-politist-login .modal-content .forget-name-link a {
+  color: #06396a !important;
+}
+.sp-politist-login .modal-content .forget-name-link a:hover {
+  color: #031f3a !important;
+}
+.sp-politist-login .modal-content .modal-footer a {
+  color: #06396a !important;
+}
+.sp-politist-login .modal-content .modal-footer a:hover {
+  color: #031f3a !important;
+}
+.sppb-title-heading {
+  color: #06396a;
+}
+.sp-politist-section-title-three .sppb-section-title .sppb-title-subheading {
+  color: #06396a;
+}
+.donation-button a.donation-button-link:hover {
+  background-color: #ed1c24;
+}
+.sp-politist-mission .sppb-cta-title {
+  color: #06396a;
+}
+.sp-politist-volunteer-cta .sppb-cta-title {
+  color: #06396a;
+}
+.sp-politist-campaign-videos:before {
+  background-color: rgba(6,57,106,0.8);
+}
+.campaign-top-cta-bottom-slogan {
+  background-color: #ed1c24;
+}
+.has-video .sppb-modal-selector:before {
+  background: rgba(6,57,106,0.9);
+}
+.sp-politist-upcoming-campign .sppb-cd-contect-wrapper h1 {
+  color: #06396a;
+}
+.sppb-addon-tweet .sppb-tweet-username a {
+  color: #06396a;
+}
+.sppb-addon-tweet .sppb-tweet-text a:hover,
+.sppb-addon-tweet .sppb-tweet-text a:focus,
+.sppb-addon-tweet .sppb-tweet-text a:active {
+  color: #06396a;
+}
+.sppb-addon-donation .donation-ammount-wrap input:hover,
+.sppb-addon-donation .donation-ammount-wrap input.active,
+.sppb-addon-donation .donation-ammount-wrap input[type="text"][readonly]:hover,
+.sppb-addon-donation .donation-ammount-wrap input[type="text"][readonly].active {
+  color: #06396a;
+  border: solid 2px #06396a;
+}
+.slider-variation-1:before {
+  background: rgba(6,57,106,0.8);
+}
+.become-a-volunteer a.sppb-btn-primary:hover {
+  background-color: #06396a;
+}
+.white-variation .sp-politist-upcoming-campign {
+  background-color: #06396a;
+}
+#sp-right h3.sp-module-title span.politist-last-title,
+#sp-left h3.sp-module-title span.politist-last-title {
+  color: #06396a;
+}
+.top-cart-wrapper .hikashop_cart_module form .hikashop_cart_input_button {
+  background: #06396a !important;
+}
+.top-cart-wrapper .hikashop_cart_module form .hikashop_cart_input_button:hover,
+.top-cart-wrapper .hikashop_cart_module form .hikashop_cart_input_button:focus,
+.top-cart-wrapper .hikashop_cart_module form .hikashop_cart_input_button:active,
+.top-cart-wrapper .hikashop_cart_module form .hikashop_cart_input_button:disabled {
+  background: #042443 !important;
+}
+.view-article ul.pagenav li.previous a,
+.view-article ul.pagenav li.next a {
+  background-color: #06396a;
+}
+.hikashop_notice_box_content .hikashop_cart_input_button {
+  background: #06396a;
+}
+.hikashop_notice_box_content .hikashop_cart_input_button:hover {
+  background-color: #052c52;
+}
+.layout-show .hikashop_product_addtocart input {
+  background: #06396a;
+}
+.layout-show .hikashop_product_addtocart input:hover {
+  background: #074682;
+}
+.layout-show input.button {
+  background-color: #06396a;
+}
+.layout-show input.button:hover {
+  background-color: #074682;
+}
+.hikashop_submodules h2 span {
+  color: #06396a;
+}
+.hikashop_product_addtocart input,
+.hikashop_product_addtocart a,
+.hikashop_cart_button,
+.hikashop_cart_input_button {
+  background-color: #06396a;
+}
+.hikashop_product_addtocart input:hover,
+.hikashop_product_addtocart a:hover,
+.hikashop_cart_button:hover,
+.hikashop_cart_input_button:hover {
+  background-color: #031f3a;
+}
+#hikashop_checkout_page .hikashop_cart_bar fieldset ul li a:hover {
+  color: #06396a;
+}
+.president-biography h1.sppb-addon-title {
+  color: #06396a;
+}
+.biography-social {
+  background-color: #06396a;
+}
+.sppb-addon-persion .sppb-person-image-wrap .sppb-person-image:after {
+  background-color: rgba(6,57,106,0.8);
+}
+.pagination-wraper .pagination > .active > a {
+  color: #ed1c24;
+}
+.pagination-wraper .pagination > .active > a:hover {
+  color: #c61017;
+}
+.sppb-title-heading span {
+  color: #ed1c24;
+}
+.customNavigation .icon-wrap:before,
+.customNavigation .icon-wrap:after {
+  background: #ed1c24;
+}
+.politist-newsletter {
+  background-color: #ed1c24;
+}
+.sp-politist-section-title-three .sppb-section-title .sppb-title-subheading span {
+  color: #ed1c24;
+}
+.sp-politist-mission .sppb-cta-title span {
+  color: #ed1c24;
+}
+.sp-politist-campaign-videos .has-video .sppb-modal-selector-bg .sppb-modal-selector:before {
+  background-color: rgba(237,28,36,0.8);
+}
+.sp-politist-upcoming-campign .sppb-cd-contect-wrapper h1 span {
+  color: #ed1c24;
+}
+.sppb-addon-articles .sppb-addon-article:hover .article-thumb:before {
+  background: #ed1c24;
+}
+.sppb-addon-articles .sppb-addon-article .article-thumb:before {
+  background: rgba(237,28,36,0.6);
+}
+.sppb-addon-articles .sppb-addon-article .article-title a:hover {
+  color: #ed1c24;
+}
+.sppb-addon-articles .subleading-item .sppb-addon-article:hover .article-thumb:before {
+  background: #ed1c24;
+}
+.sppb-addon-articles .subleading-item .sppb-addon-article .article-thumb:before {
+  background: rgba(237,28,36,0.6);
+}
+.sppb-addon-articles.layout-two .sppb-meta-date {
+  color: #ed1c24;
+}
+.politist-achievements-counter {
+  background-color: #ed1c24;
+}
+.cd-horizontal-timeline .events a.selected:after {
+  background-color: #ed1c24;
+}
+.no-touch .cd-horizontal-timeline .events a:hover::after {
+  background-color: #ed1c24;
+}
+.campaign-form .submit button.btn-primary {
+  background-color: #ed1c24;
+}
+.campaign-form .submit button.btn-primary:hover {
+  background-color: #af0e14;
+}
+.success-page-feature .sppb-section-title p.sppb-title-subheading {
+  color: #ed1c24;
+}
+.success-page-feature .sppb-addon-feature:hover .sppb-icon span i {
+  color: #ed1c24;
+}
+.success-page-recent-issues .sppb-section-title p.sppb-title-subheading {
+  color: #ed1c24;
+}
+.success-page-recent-issues .sppb-addon-button-group a.sppb-btn-default:hover {
+  background-color: #ed1c24;
+  border: solid 2px #ed1c24;
+}
+.become-a-volunteer a.sppb-btn-primary {
+  background-color: #ed1c24;
+}
+.campaign-items .campaign-info .spcamp-join-btn .btn-default {
+  color: #ed1c24;
+}
+.campaign-items .campaign-info .spcamp-join-btn .btn-default:after {
+  color: #ed1c24;
+}
+.campaign-items .campaign-info .spcamp-join-btn .btn-default:hover {
+  color: #c61017;
+}
+.campaign-items .campaign-info .spcamp-join-btn .btn-default:hover:after {
+  color: #c61017;
+}
+.campaign-items .campaign-info .spcamp-join-btn p.joined {
+  color: #ed1c24;
+}
+#sp-right h3.sp-module-title,
+#sp-left h3.sp-module-title {
+  color: #ed1c24;
+}
+#sp-right ul li a:before,
+#sp-left ul li a:before {
+  background-color: #ed1c24;
+}
+#sp-right ul li a:hover,
+#sp-left ul li a:hover {
+  margin-left: 10px;
+}
+.tagspopulartag-cloud ul li a:hover {
+  background-color: #ed1c24 !important;
+}
+.popular-post > div small {
+  color: #ed1c24;
+}
+.mod-languages .sp-select ul.sp-select-dropdown li:before {
+  background-color: #ed1c24;
+}
+.mod-languages .sp-select ul.sp-select-dropdown li:hover,
+.mod-languages .sp-select ul.sp-select-dropdown li.active {
+  color: #ed1c24;
+}
+.view-category article.item .entry-img-wrap .entry-published:after,
+.view-article article.item .entry-img-wrap .entry-published:after {
+  background-color: rgba(237,28,36,0.5);
+}
+.view-category article.item .entry-header h2 a:hover,
+.view-article article.item .entry-header h2 a:hover {
+  color: #ed1c24;
+}
+.view-category article.item p.readmore a.btn-default,
+.view-article article.item p.readmore a.btn-default {
+  color: #ed1c24;
+}
+.view-category article.item p.readmore a.btn-default:after,
+.view-article article.item p.readmore a.btn-default:after {
+  color: #ed1c24;
+}
+.view-category article.item p.readmore a.btn-default:hover,
+.view-article article.item p.readmore a.btn-default:hover {
+  color: #c61017;
+}
+.view-category article.item p.readmore a.btn-default:hover:after,
+.view-article article.item p.readmore a.btn-default:hover:after {
+  color: #c61017;
+}
+.view-category article.item:hover .entry-published:after,
+.view-article article.item:hover .entry-published:after {
+  background-color: #ed1c24;
+}
+.view-article .entry-header h2 {
+  color: #ed1c24;
+}
+.view-article strong {
+  color: #ed1c24;
+}
+.view-article ul.pagenav li.previous a:hover,
+.view-article ul.pagenav li.next a:hover {
+  background-color: #ed1c24;
+}
+#timeline .timeline-movement .timeline-item .timeline-panel .title {
+  color: #ed1c24;
+}
+.success-page-recent-issues .sppb-section-title p.sppb-title-subheading {
+  color: #ed1c24;
+}
+.layout-show #hikashop_product_right_part span.hikashop_product_price_full span {
+  color: #ed1c24;
+}
+.layout-show #hikashop_product_right_part .hkshop_prd_availablity .hkshop_prd_availablity_outofstock {
+  color: #ed1c24;
+}
+.layout-show #hikashop_product_right_part .hikashop_product_no_stock {
+  color: #ed1c24;
+}
+.layout-show .hikashop_submodules h2 {
+  color: #ed1c24;
+}
+.hikashop_categories_listing_main .hikashop_subcontainer:hover a {
+  color: #ed1c24;
+}
+#hikashop_checkout_page .checkout_coupon_wrapper .hikashop_checkout_coupon .hikashop_cart_input_button {
+  background: #ed1c24;
+}
+#hikashop_checkout_page .checkout_coupon_wrapper .hikashop_checkout_coupon .hikashop_cart_input_button:hover {
+  background-color: #c61017;
+}
+#hikashop_checkout_page .hikashop_cart_input_button {
+  background: #ed1c24;
+}
+#hikashop_checkout_page .hikashop_cart_input_button:hover {
+  background-color: #c61017;
+}
+.hikashop_checkout_login_right_part .input .hikashop_contentpane .required-field {
+  color: #ed1c24;
+}
+#hikashop_address_form_span_iframe form input[type="submit"] {
+  background: #ed1c24;
+}
+#hikashop_address_form_span_iframe form input[type="submit"]:hover {
+  background-color: #c61017;
+}
+.hikashop_module .hikashop_products .hikashop_product .hikashop_product_price_full .hikashop_product_price {
+  color: #ed1c24;
+}
+.president-biography h1.sppb-addon-title span {
+  color: #ed1c24;
+}
+.sppb-addon-gallery ul.sppb-gallery li a:after {
+  background-color: rgba(237,28,36,0.8);
+}
+.sp-comingsoon-wrap .acymailing_form .acysubbuttons input {
+  background-color: #ed1c24;
+  border: solid 2px #ed1c24;
+}
+.sp-comingsoon-wrap .acymailing_form .acysubbuttons:hover input {
+  background-color: #c61017;
+}
+.modal-content button.close:hover i {
+  color: #06396a !important;
+  border: solid 2px #06396a;
+}
+.sp-megamenu-parent >li.sp-has-child:hover>a:after {
+  color: #ed1c24;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:before {
+  background-color: #ed1c24;
+}
+.close-offcanvas:hover {
+  border: 1px solid #ed1c24;
+  color: #ed1c24;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li:hover >a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.active >a {
+  color: #ed1c24;
+}
+.modal-content .modal-body .button-wrap input {
+  background-color: #ed1c24;
+}
+.modal-content .modal-body .button-wrap input:hover {
+  background-color: #c61017;
+}
+.sp-my-menu ul.menu a:hover {
+  color: #ed1c24 !important;
+}
+#sp-footer a:hover {
+  color: #ed1c24;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.sppb-btn-primary:hover,
+.sppb-btn-primary:focus,
+.sppb-btn-primary:active {
+  background-color: #ed1c24;
+}
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #06396a;
+}
+.btn-link,
+.sppb-btn-link {
+  color: #06396a;
+}
+.btn-link:hover,
+.btn-link:focus,
+.btn-link:active,
+.sppb-btn-link:hover,
+.sppb-btn-link:focus,
+.sppb-btn-link:active {
+  color: #031f3a;
+}
+.btn-see-more-news .sppb-btn:hover {
+  background-color: #06396a;
+  border-color: #06396a;
+}
+.sppb-addon-tab .sppb-nav-tabs li.active > a {
+  color: #06396a;
+}
+.macro-tab-style2 .sppb-nav-pills li.active a {
+  background-color: #06396a;
+}
+.macro-tab-style2 .sppb-nav-pills li.active a:hover {
+  background-color: #06396a;
+}
+.sppb-addon-accordion .sppb-panel-primary .sppb-panel-heading span.sppb-panel-title i {
+  color: #06396a;
+}
